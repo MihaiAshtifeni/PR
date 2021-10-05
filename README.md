@@ -1,7 +1,7 @@
 # DiningHallServerGO
 
 This is the dining hall part of the Restaurant simulation of the first lab at the Network Programming course. The
-kitchen part of the Restaurant simulation: https://github.com/GheorgheMorari/KitchenServerGO
+kitchen part of the Restaurant simulation: https://github.com/MihaiAshtifeni/PR.kitchen.GO
 
 # Docker stuff:
 
